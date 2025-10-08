@@ -1,1 +1,1 @@
-apt install wget
+apt install wget||
